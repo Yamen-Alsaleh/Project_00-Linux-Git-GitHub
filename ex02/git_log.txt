@@ -1,0 +1,1 @@
+commit 3ebd8602f0ab4bca0362546272302e6e1d725266 Author: yalsaleh <yalsaleh@c2r7s11.irbid.42.school> Date: Thu Oct 1 11:30:09 2026 +0300 added hello.txt
